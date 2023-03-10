@@ -63,9 +63,9 @@ h3{
 label{
     display: inline-block;
     height: 100%;
-    margin: auto; //changed
+    margin: auto; 
     line-height: 60px;
-    font-size: 3vw; //changed
+    font-size: 3vw; 
     color: #fff;
     cursor: pointer;
     transition: color .5s;
